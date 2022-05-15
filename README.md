@@ -15,6 +15,6 @@
   <a href = "mailto:danielchavesfa@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielchavesfa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+ ![unnamed (1)](https://user-images.githubusercontent.com/93630038/168456096-7bac557e-2dac-467c-891b-d72cb60fa5e0.png)
 </div>
-![unnamed (1)](https://user-images.githubusercontent.com/93630038/168456096-7bac557e-2dac-467c-891b-d72cb60fa5e0.png)
+
